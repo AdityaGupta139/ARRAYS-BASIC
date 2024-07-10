@@ -1,2 +1,2 @@
 # ARRAYS-BASIC
-Thi file contains sme basic questions on arrays and 2D arrays.
+This file contains some basic questions on arrays and 2D arrays.
